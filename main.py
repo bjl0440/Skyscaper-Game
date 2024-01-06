@@ -44,7 +44,7 @@ CONTROLS_IMG = simplegui.load_image("https://cdn.discordapp.com/attachments/6766
 
 # Game Music =================================================================================================================
 
-GAME_MUSIC = simplegui.load_sound("https://cdn.discordapp.com/attachments/676641018665238539/853144519930675231/mix_4m28s_audio-joiner.com.mp3")
+GAME_MUSIC = simplegui.load_sound("https://cdn.discordapp.com/attachments/676641018665238539/1193059477092573234/71322_BeepBox-Song.mp3?ex=65ab5639&is=6598e139&hm=f9bbb918c1c7db0158e520517ecefa641c7466e0261f4b9e8ca6e2ade7eb4d1b&")
 MENU_MUSIC = simplegui.load_sound("https://cdn.discordapp.com/attachments/676641018665238539/854852629741568000/mix_4m27s_audio-joiner.com_1.mp3")
 DEATH_MUSIC = simplegui.load_sound("https://cdn.discordapp.com/attachments/676641018665238539/854864479149096970/BeepBox-Song_7.mp3")
 
